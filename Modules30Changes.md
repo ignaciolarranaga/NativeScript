@@ -21,6 +21,10 @@ TypeScript projects need to reference the **ES6 and DOM libraries**. Add this to
 }
 ```
 
+## NativeScriptModule
+
+The NativeScriptModule was moved from `nativescript-angular/platform` to `nativescript-angular/nativescript.module`.
+
 ## Camera
 The `camera` module is removed. Use `nativescript-camera` plugin instead.
 
